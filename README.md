@@ -6,9 +6,9 @@ the problem of numerical approximation, the root-finding problem within 10−5 f
 given problem. 
  
 # Methods: 
-(a) Bisection method 
-(b) Fixed Point method (use g(x)=f(x)+x) 
-(c) Newton’s method 
+(a) Bisection method <br />
+(b) Fixed Point method (use g(x)=f(x)+x) <br />
+(c) Newton’s method <br />
 
 # Scenario: 
 1- Program should ask the user to enter the equation <br />
